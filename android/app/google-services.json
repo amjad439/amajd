@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891939229952",
+    "project_id": "chatting-d8fa6",
+    "storage_bucket": "chatting-d8fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891939229952:android:20ed259f7155035531a3e5",
+        "android_client_info": {
+          "package_name": "at.ali.as"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwZ1sefD3TfejLdpEtX4QJTXu9gRS5SRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
